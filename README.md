@@ -18,7 +18,7 @@ SproutGigs Payment Countdown is a lightweight Chrome extension designed to help 
 
 ## 📦 Installation
 
-1. Download the latest release from the [Releases](https://github.com/Polando008/SproutGigs-Payment-Countdown/releases) page.
+1. Download the latest release from the [Releases](https://github.com/Polando008/SproutGigsPaymentCountdown/releases) page.
 2. Open **Chrome → Extensions → Manage Extensions → Load unpacked**.
 3. Select the folder containing the extension files.
 4. Visit your [SproutGigs Wallet](https://sproutgigs.com/wallet.php) and see the countdown timers in action!
@@ -45,13 +45,13 @@ SproutGigs Payment Countdown is a lightweight Chrome extension designed to help 
 ## 🛡️ Privacy Policy
 
 This extension **does not collect, store, or share any personal data**. All operations occur locally in your browser.
-Read the full privacy policy [here](https://polando008.github.io/SproutGigs-Payment-Countdown/privacy_policy.html).
+Read the full privacy policy [here](https://polando008.github.io/SproutGigsPaymentCountdown/privacy_policy.html).
 
 ---
 
 ## 💡 Feedback & Support
 
-If you find bugs or want new features, feel free to [open an issue](https://github.com/Polando008/SproutGigs-Payment-Countdown/issues) or contact the developer.
+If you find bugs or want new features, feel free to [open an issue](https://github.com/Polando008/SproutGigsPaymentCountdown/issues) or contact the developer.
 
 ---
 
